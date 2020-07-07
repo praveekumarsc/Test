@@ -5,5 +5,6 @@ public class Hello{
 
 		System.out.println("hellow world");
 		System.out.println("Welcome to Jenkins");
+		System.out.println("Welcome to Corono...");
 	}
 }
